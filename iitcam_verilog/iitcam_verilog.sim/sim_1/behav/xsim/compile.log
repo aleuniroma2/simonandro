@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/simone/Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/bcam_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bcam_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/simone/Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/camctl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module camctl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/simone/Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/iitcam9b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module iitcam9b
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/simone/Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/iitram9b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module iitram9b
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/simone/Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/iitram9bx1k.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module iitram9bx1k
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/simone/iitcam_verilog/iitcam_verilog.srcs/sources_1/new/lutdram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lutdram
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/simone/Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/setram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module setram
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/simone/Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/iitcam.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module iitcam
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/simone/iitcam_verilog/iitcam_verilog.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/simone/iitcam_verilog/iitcam_verilog.srcs/sources_1/new/ram_mixed.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ram_mixed

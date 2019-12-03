@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master" \
+"../../../../../Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/bcam_reg.v" \
+"../../../../../Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/camctl.v" \
+"../../../../../Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/iitcam9b.v" \
+"../../../../../Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/iitram9b.v" \
+"../../../../../Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/iitram9bx1k.v" \
+"../../../../iitcam_verilog.srcs/sources_1/new/lutdram.v" \
+"../../../../../Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/setram.v" \
+"../../../../../Indirectly-Indexed-2D-Ternary-Content-Addressable-Memory-TCAM-master/iitcam.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

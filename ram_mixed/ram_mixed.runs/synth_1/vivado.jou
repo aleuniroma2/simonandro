@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Nov 11 17:50:58 2019
+# Process ID: 3691
+# Current directory: /home/simone/ram_mixed/ram_mixed.runs/synth_1
+# Command line: vivado -log setram.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source setram.tcl
+# Log file: /home/simone/ram_mixed/ram_mixed.runs/synth_1/setram.vds
+# Journal file: /home/simone/ram_mixed/ram_mixed.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source setram.tcl -notrace

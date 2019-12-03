@@ -1,0 +1,4 @@
+Running: xsim.dir/iitcam_behav/xsimk -simmode gui -wdb iitcam_behav.wdb -simrunnum 0 -socket 39025
+Design successfully loaded
+Design Loading Memory Usage: 51572 KB (Peak: 51572 KB)
+Design Loading CPU Usage: 100 ms
